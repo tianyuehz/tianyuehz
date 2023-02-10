@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tianyuehz
-- 👀 I’m interested in machine learning, reinforcement learning
-- 🌱 I’m currently a Masters student in UBC
+- 👀 I’m interested in machine learning, optimization, and reinforcement learning
+- 🌱 I’m currently a Masters student in UBC with Dr. Mark Schmidt
 - 📫 Reach me at helenzhangtianyue@gmail.com
 
 <!---
